@@ -1,1 +1,1 @@
-Repository about python data structures
+Repository about Data Structures in Python
